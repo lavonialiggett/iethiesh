@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beeyierele.creapptive.dk/sitemap.xml
